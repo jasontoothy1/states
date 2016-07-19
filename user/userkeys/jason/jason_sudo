@@ -1,0 +1,4 @@
+jason ALL = NOPASSWD: ALL
+
+# User rules for ec2-user
+jason ALL=(ALL) NOPASSWD:ALL
